@@ -1,0 +1,38 @@
+{
+  "format": "webp",
+  "vaultTarget": ".weread/covers/",
+  "usage": "Synthetic offline covers for the sample dashboard only.",
+  "containsPersonalData": false,
+  "assets": [
+    {
+      "file": "sample-01.webp",
+      "dimensions": "1024x1536",
+      "synthetic": true,
+      "promptSummary": "Abstract blue river and topographic paper landscape without text or branding."
+    },
+    {
+      "file": "sample-02.webp",
+      "dimensions": "1024x1536",
+      "synthetic": true,
+      "promptSummary": "Minimal vermilion circle on warm editorial paper without text or branding."
+    },
+    {
+      "file": "sample-03.webp",
+      "dimensions": "1024x1536",
+      "synthetic": true,
+      "promptSummary": "Quiet midnight window in a geometric indigo composition without text or branding."
+    },
+    {
+      "file": "sample-04.webp",
+      "dimensions": "1024x1536",
+      "synthetic": true,
+      "promptSummary": "Paper-cut moss mountains, ivory moon, and muted blue cloud without text or branding."
+    },
+    {
+      "file": "sample-05.webp",
+      "dimensions": "1024x1536",
+      "synthetic": true,
+      "promptSummary": "Geometric doorway, cobalt square, and terracotta paper pages without text or branding."
+    }
+  ]
+}

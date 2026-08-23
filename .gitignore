@@ -1,0 +1,48 @@
+# Credentials and machine-local authorization
+.env
+.env.*
+!.env.example
+**/*api-key*
+**/*apikey*
+**/*secret*
+**/*token*
+**/.weread-obsidian/
+**/.weread-obsidian.json
+**/.weread/
+
+# Local design process and machine-specific product context
+/.impeccable/
+/PRODUCT.md
+
+# Real personal board data and exports
+**/WeRead Dashboard.md
+**/WeRead Library/
+**/WeRead Notes/
+**/weread-dashboard.json
+**/weread-dashboard-*.json
+**/weread-export-*.md
+**/weread-archive*/
+**/personal-notes/
+**/00-首页/阅读看板.md
+**/20-认知记录/阅读笔记/
+
+# Generated diagnostics and transient files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+.cache/
+cache/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+._*
+
+# Keep synthetic, committed test material visible
+!sync-weread-obsidian/fixtures/
+!sync-weread-obsidian/fixtures/**
+!**/*.fixture.json
+!**/*.synthetic.json

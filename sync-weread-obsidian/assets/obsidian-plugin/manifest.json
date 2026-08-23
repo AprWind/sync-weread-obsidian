@@ -1,0 +1,9 @@
+{
+  "id": "weread-reading-board",
+  "name": "WeChat Reading Board",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Render a local WeChat Reading board from .weread/reading-board.json.",
+  "author": "Independent local integration",
+  "isDesktopOnly": false
+}

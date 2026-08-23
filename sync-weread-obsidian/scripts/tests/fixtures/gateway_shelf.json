@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "bookId": "fixture-book-1",
+      "title": "../../never-a-path",
+      "author": "Fixture Author",
+      "deepLink": "weread://book?bookId=fixture-book-1",
+      "readUpdateTime": 1704067200,
+      "finishReading": 0,
+      "secret": 0
+    }
+  ],
+  "albums": [
+    {
+      "albumInfo": {"albumId": "fixture-audio-1", "name": "Fixture audio", "finish": 0},
+      "albumInfoExtra": {"secret": 1, "lectureReadUpdateTime": 1704000000}
+    }
+  ],
+  "mp": {"title": "article favorites"}
+}
