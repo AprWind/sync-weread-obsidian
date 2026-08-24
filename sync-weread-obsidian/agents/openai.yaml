@@ -1,4 +1,4 @@
 interface:
   display_name: "WeRead to Obsidian"
-  short_description: "Sync private WeRead data into an Obsidian reading board"
-  default_prompt: "Use $sync-weread-obsidian to install, check, and manually sync my private WeRead reading board."
+  short_description: "Build a private gallery-first WeRead reading board in Obsidian"
+  default_prompt: "Use $sync-weread-obsidian to safely install, check, and manually sync my private gallery-first WeRead board, including deeper reading history and count-only notebook activity."

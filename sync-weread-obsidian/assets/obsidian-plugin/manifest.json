@@ -1,9 +1,9 @@
 {
   "id": "weread-reading-board",
   "name": "WeChat Reading Board",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Render a local WeChat Reading board from .weread/reading-board.json.",
+  "description": "A local-first WeChat Reading gallery, reading calendar, and note summary for Obsidian.",
   "author": "Independent local integration",
   "isDesktopOnly": false
 }
