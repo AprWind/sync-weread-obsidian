@@ -1,6 +1,7 @@
 ---
 name: sync-weread-obsidian
 description: Connect official WeChat Reading data to an Obsidian vault and install, repair, sync, or verify a private reading board. Use for shelf, progress, reading statistics, note counts, authorization diagnosis, and safe single-book note exports without overwriting user writing.
+license: MIT
 ---
 
 # WeRead to Obsidian

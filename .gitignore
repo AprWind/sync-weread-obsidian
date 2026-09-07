@@ -30,6 +30,7 @@
 *.log
 *.tmp
 *.temp
+dist/
 tmp/
 temp/
 .cache/
