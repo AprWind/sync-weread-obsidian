@@ -1,4 +1,4 @@
 interface:
-  display_name: "WeRead to Obsidian"
-  short_description: "Build a private gallery-first WeRead reading board in Obsidian"
+  display_name: "微信读书 · Obsidian 阅读看板"
+  short_description: "将微信读书只读数据同步为私有的画廊式 Obsidian 阅读看板"
   default_prompt: "Use $sync-weread-obsidian to safely install, check, and manually sync my private gallery-first WeRead board, including deeper reading history and count-only notebook activity."
